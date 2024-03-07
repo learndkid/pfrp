@@ -1,7 +1,5 @@
 # frp
 
-[![Build Status](https://travis-ci.org/fatedier/frp.svg?branch=master)](https://travis-ci.org/fatedier/frp)
-
 [README](README.md) | [中文文档](README_zh.md)
 
 ## What is frp?
@@ -46,11 +44,7 @@ frp is a fast reverse proxy to help you expose a local server behind a NAT or fi
     * [Range ports mapping](#range-ports-mapping)
     * [Plugin](#plugin)
 * [Development Plan](#development-plan)
-* [Contributing](#contributing)
-* [Donation](#donation)
-    * [AliPay](#alipay)
-    * [Wechat Pay](#wechat-pay)
-    * [Paypal](#paypal)
+
 
 <!-- vim-markdown-toc -->
 
